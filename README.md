@@ -80,8 +80,6 @@ I am a Junior Developer from Bandung, Indonesia.
 
 <details>
   <summary>Wakatime Statistics</summary>
-  
-- Languages overall
   <hr />
   
   <p align="left">
