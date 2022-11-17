@@ -55,8 +55,18 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   
 </div>
 
-### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kangcand&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<details>
+  <summary>GitHub Statistics</summary>
+  <hr />
+  <p align="left">
+    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kangcand&show_icons=true" alt="kangcand" />
+  </p>
+
+  <p align="left">
+    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangcand&layout=compact&hide=php&langs_count=6" />
+  </p>
+</details>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangcand&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://wakatime.com/share/@878ce06a-daf4-416d-9b45-449849d54c31/7d051fda-b72c-4cd6-9565-4646cd94967e.svg)]
 
