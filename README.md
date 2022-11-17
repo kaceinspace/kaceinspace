@@ -17,8 +17,8 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kangcandra-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kangcandraa) &nbsp; [![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/candraherdiansyah) &nbsp; [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kangcandraa_) &nbsp; [![Medium Badge](https://img.shields.io/badge/Medium-green?style=flat&logo=green&logoColor=white)](https://medium.com/@candraherdiansyah14) &nbsp; [![Instagram Badge](https://img.shields.io/badge/Instagram-pink?style=flat&logo=pink&logoColor=white)](https://instagram.com/kangcandra_)
 
 ---
-
-### :hammer_and_wrench: Languages and Tools :
+<details>
+  <summary>Languages and Tools</summary>
 <div>
   <img
   src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
@@ -55,6 +55,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   
 </div>
+</details>
 
 <details>
   <summary>GitHub Statistics</summary>
