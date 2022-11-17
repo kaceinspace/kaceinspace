@@ -1,8 +1,9 @@
-<h1>
-  Hi, I'm <strong>Candra Herdiansyah</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
+<center>
+  <h1>
+    Hi, I'm <strong>Candra Herdiansyah</strong>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
+  </h1>
+</center>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -66,7 +67,36 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
     <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangcand&layout=compact&hide=php&langs_count=6" />
   </p>
 </details>
+
+
+<details>
+  <summary>GitHub Strikes</summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangcand&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://wakatime.com/share/@878ce06a-daf4-416d-9b45-449849d54c31/7d051fda-b72c-4cd6-9565-4646cd94967e.svg)]
+  <hr />
+  <p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kangcand&" alt="kangcand" />
+  </p>
+</details>
+
+<details>
+  <summary>
+    Holopin Badges
+  </summary>
+  
+  <hr />
+  
+  [![@kangcand's Holopin board](https://holopin.me/kangcand)](https://holopin.io/@kangcand)
+</details>
+
+<details>
+  <summary>Wakatime Statistics</summary>
+  
+- Languages overall
+  <hr />
+  
+  <p align="left">
+    <img src="https://wakatime.com/share/@878ce06a-daf4-416d-9b45-449849d54c31/7d051fda-b72c-4cd6-9565-4646cd94967e.svg" alt="Wakatime Stats" />
+  </p>
+</details>
+
 
