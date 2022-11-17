@@ -79,16 +79,6 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 </details>
 
 <details>
-  <summary>
-    Holopin Badges
-  </summary>
-  
-  <hr />
-  
-  [![@kangcand's Holopin board](https://holopin.me/kangcand)](https://holopin.io/@kangcand)
-</details>
-
-<details>
   <summary>Wakatime Statistics</summary>
   
 - Languages overall
