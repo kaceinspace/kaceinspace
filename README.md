@@ -83,7 +83,7 @@ I am a Junior Developer from Bandung, Indonesia.
   <hr />
   
   <p align="left">
-    <img src="https://wakatime.com/share/@878ce06a-daf4-416d-9b45-449849d54c31/7d051fda-b72c-4cd6-9565-4646cd94967e.svg" alt="Wakatime Stats" />
+   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@878ce06a-daf4-416d-9b45-449849d54c31/ac3227d6-5d17-474c-94e2-8e3d829e5c85.png" /></a>
   </p>
 </details>
 
