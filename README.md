@@ -9,9 +9,9 @@ I am a Junior Developer from Bandung, Indonesia.
 
 - :telescope: I’m working as a Teacher & IT Support at Assalaam Vocation School .
 
-- :zap: In my free time, I play games and read tech articles.
+- :zap: In my free time, I play games, exercise, play football or futsal and read books.
 
-- :mailbox:How to reach me: <br><br> <a href="https://linkedin.com/in/kangcandraa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;  <a href="https://youtube.com/candraherdiansyah"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> &nbsp; <a href="https://twitter.com/kangcandra_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp; <a href="https://medium.com/@candraherdiansyah14"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> &nbsp; <a href="https://instagram.com/kangcandra_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+- :mailbox: How to reach me: <br><br> <a href="https://linkedin.com/in/kangcandraa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;  <a href="https://youtube.com/candraherdiansyah"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> &nbsp; <a href="https://twitter.com/kangcandra_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp; <a href="https://medium.com/@candraherdiansyah14"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> &nbsp; <a href="https://instagram.com/kangcandra_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ---
 <details>
