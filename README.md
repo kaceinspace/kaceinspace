@@ -11,7 +11,7 @@ I am a Junior Developer from Bandung, Indonesia.
 
 - :zap: In my free time, I play games and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kangcandra-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kangcandraa) &nbsp; [![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/candraherdiansyah) &nbsp; [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kangcandraa_) &nbsp; [![Medium Badge](https://img.shields.io/badge/Medium-green?style=flat&logo=green&logoColor=white)](https://medium.com/@candraherdiansyah14) &nbsp; [![Instagram Badge](https://img.shields.io/badge/Instagram-pink?style=flat&logo=pink&logoColor=white)](https://instagram.com/kangcandra_)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kangcandra-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kangcandraa) &nbsp; [![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://youtube.com/candraherdiansyah) &nbsp; [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kangcandraa_) &nbsp; [![Medium Badge](https://img.shields.io/badge/Medium-green?style=flat&logo=green&logoColor=white)](https://medium.com/@candraherdiansyah14) &nbsp; [![Instagram Badge]([https://img.shields.io/badge/Instagram-pink?style=flat&logo=pink&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))](https://instagram.com/kangcandra_)
 
 ---
 <details>
