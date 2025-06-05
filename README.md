@@ -30,7 +30,7 @@
 
 ### 📱 Mobile Dev Zone
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,android" />
 </p>
 
 ---
