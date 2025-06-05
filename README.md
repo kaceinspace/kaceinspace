@@ -8,8 +8,6 @@
 
 <p align="center">
   <code>Junior Full-Stack Dev</code> 💻 from <strong>Bandung, Indonesia</strong> 🌏  
-  <br/>
-  <em>“Ngoding sampai semicolon terakhir;”</em>
 </p>
 
 ---
