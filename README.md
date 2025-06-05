@@ -15,9 +15,9 @@
 ## 🚀 About Me
 
 - 🧑‍🏫 Full-time <strong>Educator & IT Support</strong> @ Assalaam Vocational School
-- 🧬 I build for the **web** and **mobile**, with a love for futuristic UI
+- 🧬 I build for the **web** and **mobile**,
 - 🎮 Gamer | ⚽ Futsal Addict | 📚 Constant Learner
-- 🧩 Code Philosopher: <em>“0 bugs? You probably didn’t test enough.”</em>
+
 
 ---
 
