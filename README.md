@@ -31,36 +31,16 @@
 
 ---
 
-### 🛠️ Tools & Languages
-
-<details>
-  <summary>Click to expand</summary>
-  <br />
-  <div align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  </div>
-</details>
-
----
-
 ### 📊 GitHub Stats
 
 <details>
   <summary>GitHub Overview</summary>
   <br />
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=kangcand&show_icons=true&theme=tokyonight" alt="kangcand" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kaceinspace&show_icons=true&theme=tokyonight" alt="kace" />
   </p>
   <p align="left">
-    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangcand&layout=compact&hide=php&langs_count=6&theme=tokyonight" />
+    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaceinspace&layout=compact&hide=php&langs_count=6&theme=tokyonight" />
   </p>
 </details>
 
@@ -68,7 +48,7 @@
   <summary>🔥 GitHub Streak</summary>
   <br />
   <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kangcand&theme=tokyonight" alt="kangcand" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaceinspace&theme=tokyonight" alt="kangcand" />
   </p>
 </details>
 
