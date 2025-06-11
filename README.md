@@ -59,5 +59,5 @@
 ---
 
 <p align="center">
- <strong>Kace</strong></em> 🧢
+ <strong>Kace</strong>
 </p>
