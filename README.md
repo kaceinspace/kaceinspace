@@ -16,7 +16,7 @@
 
 - 🧑‍🏫 Full-time <strong>Educator & IT Support</strong> @ Assalaam Vocational School
 - 🧬 I build for the **web** and **mobile**,
-- 🎮 Gamer | ⚽ Futsal Addict | 📚 Constant Learner
+- ⚽ Football Addict | 📚 Constant Learner | 🎮 Gamer
 
 
 ---
@@ -35,31 +35,6 @@
 
 ---
 
-## 📊 GitHub Intel
-
-<details>
-  <summary>🧬 GitHub Matrix</summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaceinspace&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaceinspace&layout=compact&hide=php&langs_count=6&theme=tokyonight&hide_border=true" />
-</details>
-
-<details>
-  <summary>🔥 Contribution Heatmap</summary>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaceinspace&theme=tokyonight&hide_border=true" />
-</details>
-
-<details>
-  <summary>🕓 Time Tracked (WakaTime)</summary>
-  <br/>
-  <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@878ce06a-daf4-416d-9b45-449849d54c31/ac3227d6-5d17-474c-94e2-8e3d829e5c85.png" />
-  </a>
-</details>
-
----
 
 ## 🤝 Let’s Connect & Collab
 
@@ -84,5 +59,5 @@
 ---
 
 <p align="center">
-  <em>“Talk is cheap. Show me the <code>repo</code>.” — <strong>Kace</strong></em> 🧢
+ <strong>Kace</strong></em> 🧢
 </p>
