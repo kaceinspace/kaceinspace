@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <code>Junior Full-Stack Dev</code> 💻 from <strong>Bandung, Indonesia</strong> 🌏  
+  <code> Full-Stack Dev</code> 💻 from <strong>Bandung, Indonesia</strong> 🌏  
 </p>
 
 ---
